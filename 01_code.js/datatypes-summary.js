@@ -56,3 +56,13 @@ Return type of variables in JavaScript
        Function  =>  function
        Object  =>  object
 */ 
+
+// ==============================================
+
+// Stack (Primitive), Heap (Non-Primitive) memory
+
+
+
+
+// Primitive = copy value mai change hota hai..
+// Non-Primitive = real value mai change hota hai..
