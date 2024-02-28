@@ -1,5 +1,6 @@
 // forEach = ye bhi array ko loop krne ka tarika hota hai.. console mai ja kr prototype dekh lo pata chl jaye ga us mai bhut prototype hai jin sy array ko loop kr skte hai.. for each, map, etc.
 // forEach = high order function hai ye.. call back ky andr aap ko value mile ge ab us ko value bolo ya item.
+// forEach koi bhi value return nhi krta.. 
 /*
 .forEach( (item, index, arr)=> {
     console.log(item)
